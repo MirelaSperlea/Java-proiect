@@ -22,7 +22,6 @@ abstracte
 13.Include tratarea exceptiilor
 14.Aplicatia contine 2 pachete: Pachetul 1 sa contina aplicatia de test, pachetul 2 sa 
 contina restul claselor
-
 15.Aplicatia contine Producer-Consumer cu urmatoarele cerinte:
 a. un nou thread este alocat citirii din fisier a imaginii sursa – Producer Thread. 
 Intra in Not Runnable dupa citirea a fiecarui sfert (1/4) de informatie
